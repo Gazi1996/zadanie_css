@@ -1,0 +1,85 @@
+body
+{
+    background-color: black;
+}
+#container
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width: 30vw;
+    height: 50vh;
+    margin-top: 25vh;
+    margin-left: 35vw;
+}
+
+.square
+{
+    position: relative;
+    display: block;
+    width: 32%;
+    height: 32%;
+    background-color: yellow;
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+.circle
+{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    border-radius: 100%;
+    top: 25%;
+    left: 25%;
+}
+
+.red
+{
+    background-color: red;  
+}
+
+.blue
+{
+    background-color: blue;
+}
+
+.green
+{
+    background-color: green;
+}
+
+.yellow
+{
+    background-color: yellow;
+}
+
+.black
+{
+    background-color: black;
+}
+
+.orange
+{
+    background-color: orange;
+}
+
+.violet
+{
+    background-color: violet;
+}
+
+.grey
+{
+   background-color: darkgrey;
+}
+
+.pink
+{
+    background-color: lightpink;
+}
+
+
+
+
